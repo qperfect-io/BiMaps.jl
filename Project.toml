@@ -1,0 +1,4 @@
+name = "BiMaps"
+uuid = "02e1a8d2-c0bf-449f-9d6e-85b4cfc6bdab"
+authors = ["Guido Masella <guido.masella@gmail.com>"]
+version = "0.1.0"
